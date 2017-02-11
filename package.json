@@ -1,0 +1,13 @@
+{
+  "name": "myApp",
+  "description": "my HapiMeal App",
+  "version": "0.0.1-alpha",
+  "author": "Johnny <johnny@gmail.com>",
+  "main": "./server.js",
+  "dependencies": {
+    "lodash": "*",
+    "catbox-memory": "*",
+    "hapikachu": "*",
+    "less": "*"
+  }
+}
